@@ -17,4 +17,4 @@ Keep Learning, Keep Pushing, Never give up!
 
 ## 📨 How to reach me
 - 📥 Email: cvelandia1@hotmail.com
-- 👣 LinkedIn: cvelandiacardenas
+- 👣 LinkedIn: [cvelandiacardenas](https://www.linkedin.com/in/cvelandiacardenas/)
