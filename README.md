@@ -23,7 +23,7 @@ Keep Learning, Keep Pushing, Never give up!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CVelandiaC&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://flagpedia.net/data/flags/mini/co.png)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=CVelandiaC&icon=3&color=8)](https://visitcount.itsvg.in)
 
 
 ## Languages
