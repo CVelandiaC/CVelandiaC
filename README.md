@@ -6,9 +6,9 @@ Keep Learning, Keep Pushing, Never give up!
  - 🤖 Electronics Engineer with a masters in Automation and Robotics (Emphasis in automatic control)<br>
  - 😎 PhD Candidate at UPC BarcelonaTech | AI | ML | Data | Wind Turbines | Energy | SHM<br>
  - 👨‍🔬 Researcher, you can check my contributions at <br>
- - 📈 I’m a data scientist currently working for ADL Digital Labs<br>
+ - 📈 I’m a Sr. Data scientist currently working for Factored.ai <br>
  - 🔝 Graduated with honors from Data Science for All Colombia edition, 3rd Cohort. <br>
- - 📚 I'm always learning something 🤓, currently exploring machine learning with GCP/AWS 
+ - 📚 I'm always learning something 🤓, currently exploring Reinforecement learning and ML with DataBricks
 
 
 ## 🌐 Socials:
@@ -29,7 +29,7 @@ Keep Learning, Keep Pushing, Never give up!
 ## Languages
 - 🥖 French, Basic Speaking, Intermediate Writing. 
 - 🗽 English, Advanced Speaking, Advanced Writing.
-- 🇨🇴 Spanish, Native.
+- http://usa.flagpedia.net/data/flags/mini/ca.png Spanish, Native.
 
 
 ## 📨 How to reach me
