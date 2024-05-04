@@ -27,9 +27,9 @@ Keep Learning, Keep Pushing, Never give up!
 
 
 ## Languages
-- 🥖 French, Basic Speaking, Intermediate Writing. 
-- 🗽 English, Advanced Speaking, Advanced Writing.
-- ![](https://flagpedia.net/data/flags/w702/co.webp) Spanish, Native.
+- ![](https://flagpedia.net/data/flags/mini/fr.png) French, Basic Speaking, Intermediate Writing. 
+- ![](https://flagpedia.net/data/flags/mini/us.png) English, Advanced Speaking, Advanced Writing.
+- ![](https://flagpedia.net/data/flags/mini/co.png) Spanish, Native.
 
 
 ## 📨 How to reach me
