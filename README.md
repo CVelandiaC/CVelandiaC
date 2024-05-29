@@ -30,7 +30,3 @@ Keep Learning, Keep Pushing, Never give up!
 - ![](https://flagpedia.net/data/flags/mini/fr.png) French, Basic Speaking, Intermediate Writing. 
 - ![](https://flagpedia.net/data/flags/mini/us.png) English, Advanced Speaking, Advanced Writing.
 - ![](https://flagpedia.net/data/flags/mini/co.png) Spanish, Native.
-
-
-## 📨 How to reach me
-- 📥 Email: cvelandia1@hotmail.com
